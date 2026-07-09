@@ -1,4 +1,4 @@
-# Jake Cartilla — Portfolio
+# Minimalist— Portfolio
 
 Personal portfolio website showcasing projects, skills, and experience as a Front-End Developer & UI/UX Designer.
 
